@@ -1,7 +1,7 @@
 {
 	"bundle_id": "zone.xype.test-tweak",
 	"name": "Test Tweak",
-	"version": "1.3",
+	"version": "1.4",
 	"tagline": "An empty tweak.",
 	"homepage": "https://arthurchaloin.github.io/apt",
 	"developer": {
